@@ -183,4 +183,4 @@ This implementation is inspired by the original [Pump.fun Solana Smart Contract]
 
 For inquiries, integration support, or collaboration opportunities:
 
-
+Telegram: [https://t.me/Rust0x_726]
